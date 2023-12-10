@@ -1,1 +1,22 @@
 # proyectos
+ html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Nombre proyecto</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  </head>
+  <body class="p-3">
+  <!-- v -->
+<p>esto es un enlace relativo<a href="sobremi.html">sobre mi</a></p>
+
+<p>esto e un enlace absoluto<a href="https://github.com/huesitax/proyecto-visual-studio-code.git">sobre mi</a></p>
+
+<p>esto es un enlaze absoluto a otra pagina<a href="https://github.com/huesitax/proyecto-visual-studio-code.git">Creemos en la red</a></p>
+
+<p><img src="img/rainbow.png" alt="Un Arcoiris"></p>
+
+
+  <!-- ^ -->
+  </body>
+</html>
